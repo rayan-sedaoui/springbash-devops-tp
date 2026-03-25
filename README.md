@@ -1,4 +1,4 @@
-# SpringBash DevOps TP
+## SpringBash DevOps TP
 
 Ce projet est une démonstration d'automatisation DevOps. Il combine une application Java/Spring Boot avec une suite de scripts Bash conçus pour automatiser tout le cycle de vie de l'application (CI/CD local) : compilation, déploiement, vérification de santé et gestion des processus.
 
